@@ -1,7 +1,7 @@
 package uz.ttpu.movieshelf.presentation.movies
 
 /*
- * Task 15 — analysis (example answers; check them against your own Logcat output)
+ * Task 15 — analysis
  *
  * (1) Order of calls (control flow, inward):
  *     MovieItem (heart click) -> MovieListViewModel.onFavoriteClick
